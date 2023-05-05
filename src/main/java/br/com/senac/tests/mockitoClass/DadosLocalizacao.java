@@ -16,4 +16,23 @@ public class DadosLocalizacao {
 		this.bairro = bairro;
 	}
 
+	public String getUf() {
+		return uf;
+	}
+
+	public String getCidade() {
+		return cidade;
+	}
+
+	public String getLogradouro() {
+		return logradouro;
+	}
+
+	public String getComplemento() {
+		return complemento;
+	}
+
+	public String getBairro() {
+		return bairro;
+	}
 }
